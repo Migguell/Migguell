@@ -33,7 +33,7 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 <div align="center">
   <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="60" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/1200px-Linux_Logo_in_Linux_Libertine_Font.svg.png" alt="Linux" width="60" height="50">
-  <img src="https://www.svgrepo.com/show/372834/docker.svg" alt="Docker" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/448401/docker.svg" alt="Docker" width="60" height="50">
   <img src="https://icons.veryicon.com/png/o/miscellaneous/gwidc_1/mysql-2.png" alt="MySQL" width="60" height="50">
   <img src="https://raw.githubusercontent.com/hwkr/BitIcon/master/svg/python.svg" alt="Python" width="60" height="50">
   <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" width="60" height="50">
