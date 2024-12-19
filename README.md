@@ -28,13 +28,19 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 
 ---
 
-<p align="center">
-  <a href="https://gustavoilhamorais.dev.br"><strong>Website</strong></a> |
-  <a href="https://gitlab.com/gustavoilhamorais"><strong>GitLab</strong></a> |
-  <a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161"><strong>LinkedIn</strong></a> |
-  <a href="https://www.instagram.com/gustavo.tar.xz"><strong>Instagram</strong></a> |
-  <a href="https://x.com/ilhamorais"><strong>Twitter</strong></a>
-</p>
+<div align="center">
+  <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="Docker" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/394296/mysql.svg" alt="MySQL" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="Python" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/js.svg" alt="JavaScript" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/node.svg" alt="Node.js" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/react.svg" alt="React.js" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/306062/flutter.svg" alt="Flutter" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/330257/dart.svg" alt="Dart" width="60" height="50">
+</div>
 
 ---
 
