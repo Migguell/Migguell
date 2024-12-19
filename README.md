@@ -21,7 +21,7 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 ## 🖥️ About Me
 - 💻 Favorite language: **Python**
 - 🌟 Preferred framework: **Flask**
-- 📊 Favorite databases: **MySQL**, **MongoDB** ana **PostgreSQL**
+- 📊 Favorite databases: **MySQL** and **MongoDB**
 - 🤖 Passionate about building RESTful APIs
 - 🌐 Focused in web development
 - 🔧 Proficient in Git for version control and collaboration
