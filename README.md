@@ -28,6 +28,8 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 
 ---
 
+## Techs
+
 <div align="center">
   <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="60" height="50">
   <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
