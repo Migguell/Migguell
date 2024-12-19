@@ -1,18 +1,18 @@
 # Hi, I'm Miguel Rafael Ilha 👋
 
-I'm a software developer with 3 years of experience in software development—2 of which are professional. My focus lies in **back-end development**, with a solid foundation in **front-end**, **REST APIs**, **integrations**, and **AI-based solutions**.
+I'm a software developer with 3 years of experience in software development—2 of which are professional. My focus lies in **back-end development**, with a solid foundation in **front-end**.
 
 Currently, I'm in my 3rd year of high school while simultaneously studying **Analysis and Systems Development (ADS)** at **Senai**.
 
 ### My skillset includes:
+- Web Development
 - Back-end Development
 - Front-end Foundations
 - REST API Construction
-- AI Integration
 - Relational, Non-relational, and Vector Databases
+- AI Integration
 - Docker and Containerization
 - Computer Networks
-- Web Development
 - Server Management
 - Version Control with Git
 
@@ -21,10 +21,9 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 ## 🖥️ About Me
 - 💻 Favorite language: **Python**
 - 🌟 Preferred framework: **Flask**
-- 📊 Skilled with relational databases like **MySQL** and non-relational databases like **MongoDB**
-- 🛠️ Experienced with Docker for containerization
-- 🤖 Passionate about building APIs and leveraging AI tools
-- 🌐 Focused on back-end development and server management
+- 📊 Favorite databases: **MySQL**, **MongoDB** ana **PostgreSQL**
+- 🤖 Passionate about building RESTful APIs
+- 🌐 Focused in web development
 - 🔧 Proficient in Git for version control and collaboration
 
 ---
