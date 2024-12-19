@@ -30,7 +30,7 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 ---
 
 ## ⚙️ Tech Stack
-| Python | Flask | Docker | https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png |
+| Python | Flask | Docker | Mysql |
 | MongoDB | Vector Databases | REST APIs | Computer Networks |
 | Web Development | Server Management | Git |
 
