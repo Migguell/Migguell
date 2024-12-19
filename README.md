@@ -28,10 +28,13 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 
 ---
 
-## ⚙️ Tech Stack
-| Python | Flask | Docker | Mysql |
-| MongoDB | Vector Databases | REST APIs | Computer Networks |
-| Web Development | Server Management | Git |
+<p align="center">
+  <a href="https://gustavoilhamorais.dev.br"><strong>Website</strong></a> |
+  <a href="https://gitlab.com/gustavoilhamorais"><strong>GitLab</strong></a> |
+  <a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161"><strong>LinkedIn</strong></a> |
+  <a href="https://www.instagram.com/gustavo.tar.xz"><strong>Instagram</strong></a> |
+  <a href="https://x.com/ilhamorais"><strong>Twitter</strong></a>
+</p>
 
 ---
 
@@ -43,3 +46,4 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 - 🌐 Strong foundation in network architectures and database systems
 - 🧑‍🤝‍🧑 Skilled in using Git for version control and collaborative development
 
+---
