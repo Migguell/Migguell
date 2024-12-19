@@ -32,6 +32,11 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 
 <div align="center">
   <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="Docker" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/394296/mysql.svg" alt="MySQL" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="Python" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" width="60" height="50">
 </div>
 
 ---
