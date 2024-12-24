@@ -54,12 +54,11 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 ## :mailbox: Let's Connect!
 
 <p align="center">
-  <a href="mailto:miguel@isla.software"><strong>Email</strong></a> |
+  **Email**: `miguel@isla.software` |
   <a href="https://www.instagram.com/miggxell"><strong>Instagram</strong></a> |
 </p>
 
 <p align="center">:bulb: Need help hacking something? Let's collaborate!</p>
-
 <p align="center">:heart: When I'm not coding, you'll find me with my wife.</p>
 
 ---
