@@ -54,7 +54,7 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 ## :mailbox: Let's Connect!
 
 <p align="center">
-  <a href="malito:miguel@isla.software"><strong>Email</strong></a> |
+  <a href="mailto:miguel@isla.software"><strong>Email</strong></a> |
   <a href="https://www.instagram.com/miggxell"><strong>Instagram</strong></a> |
 </p>
 
