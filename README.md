@@ -51,7 +51,17 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 
 ---
 
-## Contact
-- My Email: miguel@isla.software
+## :mailbox: Let's Connect!
+
+<p align="center">
+  <a href="miguel@isla.software"><strong>Email</strong></a> |
+  <a href="https://www.instagram.com/miggxell"><strong>Instagram</strong></a> |
+</p>
+
+<p align="center">:bulb: Need help hacking something? Let's collaborate!</p>
+
+<p align="center">:heart: When I'm not coding, you'll find me with my wife.</p>
 
 ---
+
+<p align="center"><i>Most of my commits are in private repositories, but I'm always looking for opportunities to contribute to open-source projects and build public solutions.</i></p>
