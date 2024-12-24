@@ -50,3 +50,8 @@ Currently, I'm in my 3rd year of high school while simultaneously studying **Ana
 - 🧑‍🤝‍🧑 Skilled in using Git for version control and collaborative development
 
 ---
+
+## Contact
+- My Email: miguel@isla.software
+
+---
