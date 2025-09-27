@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Rafael Ilha 👋
 
-I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 5+ years, and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.**.
+I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 5+ years, and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
 
 ### My skillset includes:
 - Web Development
