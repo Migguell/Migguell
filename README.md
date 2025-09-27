@@ -1,8 +1,6 @@
 # Hi, I'm Miguel Rafael Ilha 👋
 
-I'm a software developer with 3 years of experience in software development—2 of which are professional. My focus lies in **back-end development**, with a solid foundation in **front-end**.
-
-Currently, I'm in my 3rd year of high school while simultaneously studying **Analysis and Systems Development (ADS)** at **Senai**.
+I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 5+ years, and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.**.
 
 ### My skillset includes:
 - Web Development
