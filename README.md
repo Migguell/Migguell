@@ -40,7 +40,7 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 ---
 
 ## 🌟 Highlights
-- 🛠️ 3 years of software development experience
+- 🛠️ 5 years of software development experience
 - 🚀 Specialized in building efficient and scalable back-end systems
 - 🔗 Proficient in integrating AI tools into modern applications
 - 📦 Containerization expert with Docker
