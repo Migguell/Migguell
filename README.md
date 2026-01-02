@@ -1,63 +1,67 @@
 # Hi, I'm Miguel Rafael Ilha 👋
 
-I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 3+ years, and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
-
-### My skillset includes:
-- Web Development
-- Back-end Development
-- Front-end Foundations
-- REST API Construction
-- Relational, Non-relational, and Vector Databases
-- AI Integration
-- Docker and Containerization
-- Computer Networks
-- Server Management
-- Version Control with Git
+I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 5+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
 
 ---
 
 ## 🖥️ About Me
-- 💻 Favorite language: **Python**
-- 🌟 Preferred framework: **Flask**
+
+- 💻 Favorite languages: **Python** and **TypeScript**
+- 🌟 Preferred frameworks: **Flask** (back‑end) and **React** (front‑end)
 - 📊 Favorite databases: **MySQL** and **MongoDB**
-- 🤖 Passionate about building RESTful APIs
-- 🌐 Focused in web development
+- 🔗 APIs I build: **REST**
+- 🌐 Focus: end‑to‑end web development (front‑end + back‑end)
 - 🔧 Proficient in Git for version control and collaboration
 
 ---
 
-## Techs
+## Skillset
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/1200px-Linux_Logo_in_Linux_Libertine_Font.svg.png" alt="Linux" width="60" height="50">
-  <img src="https://www.svgrepo.com/show/448401/docker.svg" alt="Docker" width="60" height="50">
-  <img src="https://www.svgrepo.com/show/342044/mongodb.svg" alt="MySQL" width="60" height="50">
-  <img src="https://icons.veryicon.com/png/o/miscellaneous/gwidc_1/mysql-2.png" alt="MySQL" width="60" height="50">
-  <img src="https://raw.githubusercontent.com/hwkr/BitIcon/master/svg/python.svg" alt="Python" width="60" height="50">
-  <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" width="60" height="50">
-</div>
+### Front‑end Development
+- **React**, **JavaScript**, **TypeScript**
+- **Modern CSS**: Tailwind CSS, CSS Modules, Flex/Grid
+- **Performance**: code splitting, lazy loading, image optimization, Lighthouse tuning
+- **Accessibility (a11y)**: semantic HTML, ARIA, keyboard navigation
+- **Testing**: Jest, React Testing Library, Cypress (E2E)
+- **Tooling**: Vite, Webpack, ESLint, Prettier
+- **UI/UX**: component design, Storybook, design systems
+
+### Back‑end Development
+- **Python**, **Flask**
+- **RESTful**
+- **Databases**: MySQL, MongoDB, relational & non‑relational modeling
+- **AI Integration**: embedding/vector DB, model orchestration
+- **Server Management**: Linux, Nginx, systemd
+- **Docker & Containerization**
+- **Networking fundamentals** and security best practices
+
+---
+
+## Techs
+**Linux • Docker • Python • Flask • React • TypeScript • MySQL • MongoDB • Tailwind CSS • Cypress •**
 
 ---
 
 ## 🌟 Highlights
-- 🛠️ 5 years of software development experience
-- 🚀 Specialized in building efficient and scalable back-end systems
-- 🔗 Proficient in integrating AI tools into modern applications
-- 📦 Containerization expert with Docker
+
+- 🛠️ 5+ years of software development experience
+- ⚡ Front‑end efficiency: high Lighthouse scores, reusable component libraries, accessibility‑first UIs, and performance optimizations (code splitting, lazy loading, image optimization).
+- - 🚀 Back‑end scalability: efficient APIs, robust data modeling, caching strategies
+- 🔗 AI tools integrated into modern applications (embeddings, retrieval, workflows)
+- 📦 Containerization with Docker and CI/CD pipelines for reliable delivery
 - 🌐 Strong foundation in network architectures and database systems
-- 🧑‍🤝‍🧑 Skilled in using Git for version control and collaborative development
+- 🧑🤝🧑 Skilled in Git for version control and collaborative development
 
 ---
 
-## :mailbox: Let's Connect!
+## :mailbox: Let’s Connect!
 
 <p align="center">
-  <a href="mailto:miguel@isla.software"><strong>Email</strong></a> |
-  <a href="https://www.instagram.com/miggxell"><strong>Instagram</strong></a> |
+<a href="mailto:miguel@isla.software"><strong>Email</strong></a> |
 </p>
 
-<p align="center">:bulb: Need help hacking something? Let's collaborate!</p>
+<p align="center">💡 Need help hacking something? Let’s collaborate!</p>
 
 ---
 
-<p align="center"><i>Most of my commits are in private repositories, but I'm always looking for opportunities to contribute to open-source projects and build public solutions.</i></p>
+<p align="center"><i>Most of my commits are in private repositories, but I'm always looking for opportunities to contribute to open‑source projects and build public solutions.</i></p>
