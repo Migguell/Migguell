@@ -20,10 +20,9 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 ### Front‑end Development
 - **React**, **JavaScript**, **TypeScript**
 - **Modern CSS**: Tailwind CSS, CSS Modules, Flex/Grid
-- **Performance**: code splitting, lazy loading, image optimization, Lighthouse tuning
-- **Accessibility (a11y)**: semantic HTML, ARIA, keyboard navigation
-- **Testing**: Jest, React Testing Library, Cypress (E2E)
-- **Tooling**: Vite, Webpack, ESLint, Prettier
+- **Performance**: code splitting, lazy loading, image optimization
+- **Accessibility (a11y)**: semantic HTML, keyboard navigation
+- **Tooling**: Vite, Webpack
 - **UI/UX**: component design, Storybook, design systems
 
 ### Back‑end Development
@@ -39,15 +38,14 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 ## 🛠 Tech Stack
 
-Linux • Docker • Python • Flask • Node.js • React • Next.js • TypeScript • MySQL • MongoDB • Tailwind CSS • Cypress • Jest • GraphQL
-
+Linux • Docker • Python • Flask • React • TypeScript • MySQL • MongoDB • Tailwind CSS
 ---
 
 ## 🌟 Highlights
 
 - 🛠️ 5+ years of software development experience
 - ⚡ Front‑end efficiency: high Lighthouse scores, reusable component libraries, accessibility‑first UIs, and performance optimizations (code splitting, lazy loading, image optimization).
-- - 🚀 Back‑end scalability: efficient APIs, robust data modeling, caching strategies
+- 🚀 Back‑end scalability: efficient APIs, robust data modeling, caching strategies
 - 🔗 AI tools integrated into modern applications (embeddings, retrieval, workflows)
 - 📦 Containerization with Docker and CI/CD pipelines for reliable delivery
 - 🌐 Strong foundation in network architectures and database systems
