@@ -37,8 +37,21 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 ---
 
-## Techs
-**Linux • Docker • Python • Flask • React • TypeScript • MySQL • MongoDB • Tailwind CSS • Cypress •**
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="Docker" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/394296/mysql.svg" alt="MySQL" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="Python" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/js.svg" alt="JavaScript" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/node.svg" alt="Node.js" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/react.svg" alt="React.js" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/306062/flutter.svg" alt="Flutter" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/330257/dart.svg" alt="Dart" width="60" height="50">
+</div>
 
 ---
 
