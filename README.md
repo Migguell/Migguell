@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Rafael Ilha 👋
 
-I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 5+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
+I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 4+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
 
 ---
 
@@ -43,7 +43,7 @@ Linux • Docker • Python • Flask • React • TypeScript • MySQL • Mon
 
 ## 🌟 Highlights
 
-- 🛠️ 5+ years of software development experience
+- 🛠️ 4+ years of software development experience
 - ⚡ Front‑end efficiency: high Lighthouse scores, reusable component libraries, accessibility‑first UIs, and performance optimizations (code splitting, lazy loading, image optimization).
 - 🚀 Back‑end scalability: efficient APIs, robust data modeling, caching strategies
 - 🔗 AI tools integrated into modern applications (embeddings, retrieval, workflows)
