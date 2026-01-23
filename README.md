@@ -36,11 +36,6 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 ---
 
-## 🛠 Tech Stack
-
-Linux • Docker • Python • Flask • React • TypeScript • MySQL • MongoDB • Tailwind CSS
----
-
 ## 🌟 Highlights
 
 - 🛠️ 4+ years of software development experience
