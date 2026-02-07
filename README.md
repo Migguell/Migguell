@@ -4,7 +4,7 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 ---
 
-## 🖥️ About Me
+## About Me
 
 - 💻 Favorite languages: **Python** and **TypeScript**
 - 🌟 Preferred frameworks: **Flask** (back‑end) and **React** (front‑end)
@@ -36,7 +36,7 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 - 🛠️ 4+ years of software development experience
 - ⚡ Front‑end efficiency: high Lighthouse scores, reusable component libraries, accessibility‑first UIs, and performance optimizations (code splitting, lazy loading, image optimization).
