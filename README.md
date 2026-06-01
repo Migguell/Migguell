@@ -52,3 +52,7 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
     alt="GitHub Trophies" 
   />
 </p>
+    src="https://github-profile-trophy.vercel.app/?username=Migguell&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies" 
+  />
+</p>
