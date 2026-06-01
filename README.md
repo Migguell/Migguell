@@ -30,29 +30,10 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 ## GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Migguell&show_icons=true&count_private=true&theme=dark&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migguell&show_icons=true&theme=dark)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migguell&layout=compact&theme=dark&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Migguell&layout=compact&theme=dark)
 
 ## GitHub Trophies
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Migguell&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-  />
-</p>
-    src="https://github-profile-trophy.vercel.app/?username=Migguell&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-  />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Migguell&theme=darkhub)
