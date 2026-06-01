@@ -1,8 +1,12 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Miguel Ilha</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Miguel Ilha</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 ## 📌 About Me
 - I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 4+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
+
+
+## 🧠 My Focus Areas
+- Web Development
 
 
 ## 🛠️ Languages & Tools
