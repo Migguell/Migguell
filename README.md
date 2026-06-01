@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 4+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
@@ -54,7 +54,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href=""https://br.linkedin.com/in/miguel-rafael-ilha-7750ba360?trk=org-employees"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="'s LinkedIn"/></a>
+  <a href=""https://br.linkedin.com/in/miguel-rafael-ilha-7750ba360?trk=org-employees"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Miguel Rafael's LinkedIn"/></a>&nbsp;
+  <a href="mailto:miguel@isla.software"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Miguel Rafael's Email"/></a>
 </p>
 
 <picture>
