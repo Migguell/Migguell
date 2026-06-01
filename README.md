@@ -1,61 +1,28 @@
-# Hi, I'm Miguel Rafael Ilha 👋
+# Hello 👋, I'm Miguel
+### Full Stack Developer
 
 I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 4+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
 
----
+## Skills
 
-## About Me
-
-- 💻 Favorite languages: **Python** and **TypeScript**
-- 🌟 Preferred frameworks: **Flask** (back‑end) and **React** (front‑end)
-- 📊 Favorite databases: **MySQL** and **MongoDB**
-- 🔗 APIs I build: **REST**
-- 🌐 Focus: end‑to‑end web development (front‑end + back‑end)
-- 🔧 Proficient in Git for version control and collaboration
-
----
-
-## Skillset
-
-### Front‑end Development
-- **React**, **JavaScript**, **TypeScript**
-- **Modern CSS**: Tailwind CSS, CSS Modules, Flex/Grid
-- **Performance**: code splitting, lazy loading, image optimization
-- **Accessibility (a11y)**: semantic HTML, keyboard navigation
-- **Tooling**: Vite, Webpack
-- **UI/UX**: component design, Storybook, design systems
-
-### Back‑end Development
-- **Python**, **Flask**
-- **RESTful**
-- **Databases**: MySQL, MongoDB, relational & non‑relational modeling
-- **AI Integration**: embedding/vector DB, model orchestration
-- **Server Management**: Linux, Nginx, systemd
-- **Docker & Containerization**
-- **Networking fundamentals** and security best practices
-
----
-
-## Highlights
-
-- 🛠️ 4+ years of software development experience
-- ⚡ Front‑end efficiency: high Lighthouse scores, reusable component libraries, accessibility‑first UIs, and performance optimizations (code splitting, lazy loading, image optimization).
-- 🚀 Back‑end scalability: efficient APIs, robust data modeling, caching strategies
-- 🔗 AI tools integrated into modern applications (embeddings, retrieval, workflows)
-- 📦 Containerization with Docker and CI/CD pipelines for reliable delivery
-- 🌐 Strong foundation in network architectures and database systems
-- 🧑🤝🧑 Skilled in Git for version control and collaborative development
-
----
-
-## :mailbox: Let’s Connect!
-
-<p align="center">
-<a href="mailto:miguel@isla.software"><strong>Email</strong></a> |
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 </p>
 
-<p align="center">💡 Need help hacking something? Let’s collaborate!</p>
+## GitHub Stats
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Migguell&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<p align="center"><i>Most of my commits are in private repositories, but I'm always looking for opportunities to contribute to open‑source projects and build public solutions.</i></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migguell&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+
