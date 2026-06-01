@@ -27,13 +27,3 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migguell&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Migguell&layout=compact&theme=dark)
-
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Migguell&theme=darkhub)
