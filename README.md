@@ -3,6 +3,9 @@
 
 I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fast-scaling consumer and lifestyle brands worldwide. With 4+ years and code deployed across global platforms and campaigns, I build systems that turn ordinary businesses into tech-driven leaders and startups into scalable success stories.
 
+## Contact Me
+<p><a href="https://br.linkedin.com/in/miguel-rafael-ilha-7750ba360?trk=org-employees" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
 ## Skills
 
 <p align="left">
@@ -24,5 +27,7 @@ I'm Miguel, a Full Stack Web Developer & software solutions expert trusted by fa
 
 <img src="https://github-readme-stats.vercel.app/api?username=Migguell&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migguell&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Migguell" alt="trophy" />
 
