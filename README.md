@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Miguel. Full Stack Developer with 4+ years building complete web applications, from database to interface. Specialized in robust back-end architectures and modern frontends focused on user experience — code that doesn't just work, but scales. Proven track record of production deliveries alongside global consumer and lifestyle brands, from startups gaining traction to companies consolidating market leadership.
+- Miguel. Full Stack Developer building complete web applications, from database to interface. Specialized in robust back-end architectures and modern frontends focused on user experience — code that doesn't just work, but scales. Proven track record of production deliveries alongside global consumer and lifestyle brands, from startups gaining traction to companies consolidating market leadership.
 
 ## 🛠️ Languages & Tools
 
